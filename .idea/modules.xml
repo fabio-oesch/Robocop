@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Robocop.iml" filepath="$PROJECT_DIR$/Robocop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emoba/emoba.iml" filepath="$PROJECT_DIR$/emoba/emoba.iml" />
+    </modules>
+  </component>
+</project>
+
